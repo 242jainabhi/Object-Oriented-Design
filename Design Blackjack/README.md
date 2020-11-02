@@ -1,4 +1,4 @@
-# Desgin a game of Blackjack
+# Design a game of Blackjack
 
 Following are the rules to play Blackjack:
 
