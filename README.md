@@ -9,3 +9,4 @@ Object-Oriented Design (OOD) skills are a major plus for software engineers. The
 Here is a list of Object Oriented Design projects present in this repo:
 
 - [Blackjack](https://github.com/242jainabhi/Object-Oriented-Design/tree/master/Design%20Blackjack)
+- [Linux Commands Simulator](https://github.com/242jainabhi/LinuxCommandsSimulator)
